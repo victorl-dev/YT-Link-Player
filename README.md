@@ -1,53 +1,121 @@
 # 🎵 YT-Link-Player
 
-A lightweight, low-RAM YouTube music player for desktop.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A lightweight, low-RAM YouTube music player for desktop, built with Electron and JavaScript.
 
 ---
 
-### 🇬🇧 English
+[ 🇬🇧 English ](#-english) | [ 🇧🇷 Português (Brasil) ](#-português-brasil)
 
-#### Overview
-This application was developed to allow users with limited RAM to enjoy music from YouTube without worrying about excessive browser memory consumption.
+---
 
-#### Features
--   Low RAM usage 😁
--   High-quality audio
--   Play YouTube songs by simply pasting the link
--   YouTube Playlist support
--   User-friendly interface
--   Easy to use
--   Minimize to system tray
+<a name="-english"></a>
+## 🇬🇧 English
 
-#### Getting Started
+### 🚀 Overview
+
+Tired of your browser consuming excessive memory just to listen to a YouTube playlist? YT-Link-Player is a minimalist desktop application designed to solve exactly that problem. It provides a simple, resource-friendly way to play audio from YouTube videos and playlists without needing to keep a browser tab open.
+
+### ✨ Features
+
+* **Low RAM Consumption:** Enjoy your music without slowing down your computer.
+* **High-Quality Audio:** Streams the best audio quality available.
+* **Video & Playlist Support:** Play single YouTube videos or entire playlists by simply pasting the link.
+* **User-Friendly Interface:** A clean and intuitive UI.
+* **System Tray Integration:** Minimize the application to your system tray and keep the music playing in the background.
+
+### ⚙️ Getting Started
+
 To get a local copy up and running, follow these simple steps.
 
-**Prerequisites**
--   You need a YouTube API Key.
+#### Prerequisites
 
-**Installation**
-1.  Clone the repo:
-    `git clone https://github.com/PixoPjl/YT-Link-Player.git`
-2.  Install NPM packages:
-    `npm install`
+This application requires a YouTube API Key to fetch playlist data.
+* **How to get a YouTube API Key:** [Watch the video tutorial](LINK_PARA_SEU_VIDEO_AQUI)
 
-**Alternative (Windows Executable)**
-You can also download the `.exe` file for Windows from the Releases section.
+#### Installation from Source
+
+1.  Clone the repository:
+    ```sh
+    git clone [https://github.com/PixoPjl/YT-Link-Player.git](https://github.com/PixoPjl/YT-Link-Player.git)
+    ```
+2.  Navigate to the project directory:
+    ```sh
+    cd YT-Link-Player
+    ```
+3.  Install the dependencies:
+    ```sh
+    npm install
+    ```
+4.  Run the application:
+    ```sh
+    npm start
+    ```
+
+#### Windows Executable
+
+For a simpler setup on Windows, you can download the latest `.exe` file directly from the **[Releases](https://github.com/PixoPjl/YT-Link-Player/releases)** section of this repository.
+
+### 🎬 Usage Demo
+
+[Watch a video demonstrating how to use the app.](LINK_PARA_SEU_VIDEO_DE_USO_AQUI)
 
 ---
 
-### 🇧🇷 Português (Brasil)
+<a name="-português-brasil"></a>
+## 🇧🇷 Português (Brasil)
 
-#### Descrição
+### 📝 Descrição
+
 O aplicativo foi desenvolvido com o objetivo de permitir que pessoas com computadores com RAM limitada possam aproveitar a música sem se preocupar com o consumo excessivo de memória do navegador.
 
-#### Funcionalidades
--   Baixo consumo de RAM 😁
--   Alta qualidade de áudio
--   Toque músicas do YouTube simplesmente colando os links
--   Suporte para tocar Playlists do YouTube
--   Interface amigável
--   Fácil de usar
--   Minimizar para a bandeja do sistema
+### 🌟 Funcionalidades
 
-#### Como Começar
-... (suas instruções em português) ...
+* **Baixo consumo de RAM** 😁
+* **Alta qualidade de áudio**
+* **Toque músicas do YouTube** simplesmente colando os links
+* **Suporte para tocar Playlists** do YouTube
+* **Interface amigável**
+* **Fácil de usar**
+* **Minimizar para a bandeja do sistema**
+
+### 🚀 Como Começar
+
+#### Requisitos
+
+* Chave da API do YouTube
+* **Como Obter a Chave da API do YouTube:** [Assista ao vídeo tutorial](LINK_PARA_SEU_VIDEO_AQUI)
+
+#### Instalação via Código-Fonte
+
+1.  Clone o repositório:
+    ```sh
+    git clone [https://github.com/PixoPjl/YT-Link-Player.git](https://github.com/PixoPjl/YT-Link-Player.git)
+    ```
+2.  Navegue até a pasta do projeto:
+    ```sh
+    cd YT-Link-Player
+    ```
+3.  Instale as dependências:
+    ```sh
+    npm install
+    ```
+4.  Execute a aplicação:
+    ```sh
+    npm start
+    ```
+
+#### Executável para Windows
+
+Para uma instalação mais simples no Windows, você pode baixar o arquivo `.exe` mais recente na seção de **[Releases](https://github.com/PixoPjl/YT-Link-Player/releases)** deste repositório.
+
+### 🎬 Demonstração de Uso
+
+[Assista a um vídeo demonstrando como usar o aplicativo.](LINK_PARA_SEU_VIDEO_DE_USO_AQUI)
+
+---
+
+### 📬 Contato
+
+Discord: `pixo.pjl#1337`
