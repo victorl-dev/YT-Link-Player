@@ -1,36 +1,53 @@
 # 🎵 YT-Link-Player
-#### O aplicativo foi desenvolvido com o objetivo de permitir que pessoas com computadores com RAM limitada possam aproveitar a música sem se preocupar com o consumo excessivo de memória do navegador.
 
-### 🚀 Como Começar
-```bash
-git clone https://github.com/PixoPjl/YT-Link-Player.git
-cd YT-Link-Player
-npm install
+A lightweight, low-RAM YouTube music player for desktop.
 
-OU
+---
 
-Baixe o executável para Windows na seção de releases
-```
+### 🇬🇧 English
 
-### 🌟 Funcionalidades
-- Baixo consumo de RAM 😁
-- Alta qualidade de áudio
-- Toque músicas do YouTube simplesmente colando os links
-- Suporte para tocar Playlists do YouTube
-- Interface amigável
-- Fácil de usar
-- Minimizar para a bandeja do sistema
+#### Overview
+This application was developed to allow users with limited RAM to enjoy music from YouTube without worrying about excessive browser memory consumption.
 
-### 📋 Requisitos
-- Chave da API do YouTube
+#### Features
+-   Low RAM usage 😁
+-   High-quality audio
+-   Play YouTube songs by simply pasting the link
+-   YouTube Playlist support
+-   User-friendly interface
+-   Easy to use
+-   Minimize to system tray
 
-### ❓ Como Obter a Chave da API do YouTube
-Link do vídeo: [Clique Aqui](https://developers.google.com/youtube/v3/getting-started?hl=pt-br)
+#### Getting Started
+To get a local copy up and running, follow these simple steps.
 
-https://github.com/PixoPjl/YT-Link-Player/assets/131977643/db9e31c6-cc0b-4349-90b9-a3a190fa0bc4
+**Prerequisites**
+-   You need a YouTube API Key.
 
-### 🤔 Como Usar
-https://github.com/PixoPjl/YT-Link-Player/assets/131977643/2416c130-fb34-4da9-9f8a-f20f864c105d
+**Installation**
+1.  Clone the repo:
+    `git clone https://github.com/PixoPjl/YT-Link-Player.git`
+2.  Install NPM packages:
+    `npm install`
 
-#### Redes Sociais
-Discord: pixo.pjl#1337
+**Alternative (Windows Executable)**
+You can also download the `.exe` file for Windows from the Releases section.
+
+---
+
+### 🇧🇷 Português (Brasil)
+
+#### Descrição
+O aplicativo foi desenvolvido com o objetivo de permitir que pessoas com computadores com RAM limitada possam aproveitar a música sem se preocupar com o consumo excessivo de memória do navegador.
+
+#### Funcionalidades
+-   Baixo consumo de RAM 😁
+-   Alta qualidade de áudio
+-   Toque músicas do YouTube simplesmente colando os links
+-   Suporte para tocar Playlists do YouTube
+-   Interface amigável
+-   Fácil de usar
+-   Minimizar para a bandeja do sistema
+
+#### Como Começar
+... (suas instruções em português) ...
