@@ -32,13 +32,13 @@ To get a local copy up and running, follow these simple steps.
 #### Prerequisites
 
 This application requires a YouTube API Key to fetch playlist data.
-* **How to get a YouTube API Key:** [Watch the video tutorial](LINK_PARA_SEU_VIDEO_AQUI)
+* **How to get a YouTube API Key:** [Watch the video tutorial](https://github.com/victorl-dev/YT-Link-Player/assets/131977643/db9e31c6-cc0b-4349-90b9-a3a190fa0bc4)
 
 #### Installation from Source
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/PixoPjl/YT-Link-Player.git](https://github.com/PixoPjl/YT-Link-Player.git)
+    git clone [https://github.com/victorl-dev/YT-Link-Player.git](https://github.com/victorl-dev/YT-Link-Player.git)
     ```
 2.  Navigate to the project directory:
     ```sh
@@ -55,11 +55,11 @@ This application requires a YouTube API Key to fetch playlist data.
 
 #### Windows Executable
 
-For a simpler setup on Windows, you can download the latest `.exe` file directly from the **[Releases](https://github.com/PixoPjl/YT-Link-Player/releases)** section of this repository.
+For a simpler setup on Windows, you can download the latest `.exe` file directly from the **[Releases](https://github.com/victorl-dev/YT-Link-Player/releases)** section of this repository.
 
 ### 🎬 Usage Demo
 
-[Watch a video demonstrating how to use the app.](LINK_PARA_SEU_VIDEO_DE_USO_AQUI)
+[Watch a video demonstrating how to use the app.](https://github.com/victorl-dev/YT-Link-Player/assets/131977643/2416c130-fb34-4da9-9f8a-f20f864c105d)
 
 ---
 
@@ -85,13 +85,13 @@ O aplicativo foi desenvolvido com o objetivo de permitir que pessoas com computa
 #### Requisitos
 
 * Chave da API do YouTube
-* **Como Obter a Chave da API do YouTube:** [Assista ao vídeo tutorial](LINK_PARA_SEU_VIDEO_AQUI)
+* **Como Obter a Chave da API do YouTube:** [Assista ao vídeo tutorial](https://github.com/victorl-dev/YT-Link-Player/assets/131977643/db9e31c6-cc0b-4349-90b9-a3a190fa0bc4)
 
 #### Instalação via Código-Fonte
 
 1.  Clone o repositório:
     ```sh
-    git clone [https://github.com/PixoPjl/YT-Link-Player.git](https://github.com/PixoPjl/YT-Link-Player.git)
+    git clone [https://github.com/victorl-dev/YT-Link-Player.git](https://github.com/victorl-dev/YT-Link-Player.git)
     ```
 2.  Navegue até a pasta do projeto:
     ```sh
@@ -108,11 +108,11 @@ O aplicativo foi desenvolvido com o objetivo de permitir que pessoas com computa
 
 #### Executável para Windows
 
-Para uma instalação mais simples no Windows, você pode baixar o arquivo `.exe` mais recente na seção de **[Releases](https://github.com/PixoPjl/YT-Link-Player/releases)** deste repositório.
+Para uma instalação mais simples no Windows, você pode baixar o arquivo `.exe` mais recente na seção de **[Releases](https://github.com/victorl-dev/YT-Link-Player/releases)** deste repositório.
 
 ### 🎬 Demonstração de Uso
 
-[Assista a um vídeo demonstrando como usar o aplicativo.](LINK_PARA_SEU_VIDEO_DE_USO_AQUI)
+[Assista a um vídeo demonstrando como usar o aplicativo.](https://github.com/victorl-dev/YT-Link-Player/assets/131977643/2416c130-fb34-4da9-9f8a-f20f864c105d)
 
 ---
 
